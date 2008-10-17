@@ -1,0 +1,10 @@
+fractions
+=========
+
+Adds a 'to_fraction' method to Float, e.g., (0.5).to_fraction => [1,2].
+
+Originally a snippet by Michelle/shell (http://snippets.dzone.com/posts/show/3636), now ported to a Rails plugin.
+
+I've also prepared a simple helper module that mixes a 'nice_fraction' method into ActionView::Base.
+
+Copyright (c) 2008 Stephen Tudor, released under the MIT license
